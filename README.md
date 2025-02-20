@@ -2,6 +2,18 @@
 
 Soy *ingeniero mecatrónico*, con una profunda pasión por la tecnología y la innovación. Me motiva constantemente la búsqueda de nuevos conocimientos y el perfeccionamiento en mi disciplina. Cuento con un laboratorio electrónico denominado **L.A.B**., en el que desarrollo proyectos que integran diversas áreas de la ingeniería, buscando siempre soluciones creativas y eficientes. Mi compromiso es mantenerme a la vanguardia de los avances tecnológicos para aportar al desarrollo y la mejora continua en este campo..
 
+### Actividades
+
++ Programación de microcontroladores en lenguaje C/C+.
++ Programación de software a medida.
++ Desarrollo de sistemas embebidos.
+    + Instrumentación electrónica.
+    + Validación de Hardware
+    + Pruebas unitarias.
++ Diseño PCB.
++ Reparación de tarjetas PCB.
+
+
 ### Habilidades
 
 <p align="left">
